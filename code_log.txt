@@ -1,0 +1,16 @@
+2026-03-17 23:07:53 : ETL Job Started
+2026-03-17 23:07:53 : Extraction started
+2026-03-17 23:07:56 : Extraction completed
+2026-03-17 23:07:56 : Transformation started
+2026-03-17 23:08:11 : ETL Job Started
+2026-03-17 23:08:11 : Extraction started
+2026-03-17 23:08:12 : Extraction completed
+2026-03-17 23:08:12 : Transformation started
+2026-03-17 23:08:14 : Transformation completed
+2026-03-17 23:08:14 : Loading to CSV started
+2026-03-17 23:08:14 : Loading to CSV completed
+2026-03-17 23:08:14 : Loading to DB started
+2026-03-17 23:08:14 : Loading to DB completed
+2026-03-17 23:08:14 : Running queries started
+2026-03-17 23:08:14 : Queries executed successfully
+2026-03-17 23:08:14 : ETL Job Completed
